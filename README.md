@@ -1,4 +1,4 @@
-# resize_window
+# resize_window-一个开箱即用的能够帮助你控制窗口大小的软件
 一个开箱即用的能够帮助你控制窗口大小的软件（A software that helps you control the window size out of the box）
 
 你是否每次办公、游戏、分屏都因为窗口难以调整大小而发疯？也许这个开箱即用的python开源小软件能帮到你！
